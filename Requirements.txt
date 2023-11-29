@@ -1,0 +1,20 @@
+
+BACKEND REQUIREMENTS
+    receive and store raw .jpg files
+    receive and store raw .mp4 connected to associated .jpg
+
+    Queried datapoints
+        Moisture %
+        Machine Used
+            Machine Parameters
+        Date of experiemnt
+        Experiment performer
+
+    Automatic posting from Matlab script
+
+FRONTENT REQUIREMENTS
+    No password or authorization to view
+
+    display results of queries and sorting by above Parameters
+    download of sorted/selected images by parameter as .zip files
+    no direct video interaction
